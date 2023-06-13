@@ -5,6 +5,8 @@ function YourComp() {
   return (
     <div>
       <h2>hlo</h2>
+      <h2>hlo</h2>
+
     </div>
   )
 }
