@@ -4,7 +4,7 @@ import React from 'react'
 function YourComp() {
   return (
     <div>
-      <h1>HELLO</h1>
+      <h2>hlo</h2>
     </div>
   )
 }
