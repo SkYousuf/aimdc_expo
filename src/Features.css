@@ -1,0 +1,18 @@
+.m2div{
+    display: flex;
+    background-color: #131d32;
+}
+.a2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-right: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+    word-spacing: 5px;
+    color: white;
+    width: 50%;
+}
+.img2{
+    margin: 30px;
+}

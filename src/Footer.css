@@ -1,0 +1,27 @@
+*{
+    /* padding: 0;
+    margin: 0; */
+    font-family: 'Poppins', sans-serif;
+}
+.row{
+    display: flex;
+}
+.container{
+    background-color: #131d32;
+}
+#lp{
+    padding-bottom: 30px;
+    padding-top: 0px;
+}
+.socialIcon{
+    margin-top: 20px;
+    color: white;
+    margin-left: 150px;
+  }
+  .socialIcon i{
+    font-size: 30px;
+  margin: 10px;
+  }
+  .socialIcon i:hover{
+    color: #1a88b2;
+  }
